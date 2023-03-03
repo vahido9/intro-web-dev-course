@@ -1,11 +1,12 @@
 # Assignment 3: PHP, SQL, State, Caching
 
+## Issues 
+This repository does not contain any images for all the artwork found in the database because there are too many images to fit in the repository. As a result, when the code is run errors will be thrown because images are not found. 
+
 ## Problem Statement 
 
 ### PHP and SQL
 Replace the static HTML documents with pages that dynamically create pages, pulling in information from multiple database tables. 
-
-
 
 1. Create PHP versions of the two supplied HTML files, named `browse-paintings.php` and `single – painting.php`. Extract the common header into a separate include file.
 
@@ -44,7 +45,6 @@ and `Title`.
 ### Caching 
 
 `browse-paintings.php` has three filters that require three separate SQL queries. The data in these tables would likely change infrequently. Performance can improved if we cache the data from these three tables. Only when the data is not cached in `memcache` would you go and retrieve it from the database server.
-
 
 ## Usage 
 
