@@ -1,8 +1,4 @@
-
-
 <?php
-//Vahid Foroughi Lab 5 SYSC 4504
-
 // Collection of functions to deal with SQL database
 
 //Sets connection info to database
