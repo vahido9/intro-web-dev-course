@@ -3,6 +3,7 @@
 ## Problem Statement 
 
 Recreate the following static HTML page:
+
 ![Sample output](images/lab1_sample.png)
 
 ## Usage 
