@@ -13,4 +13,4 @@
 
 ## Usage 
 
-- Setup XAMPP and then access the lab at http://localhost/travel.php
+- Setup an XAMPP Apache Server and then access the lab at http://localhost/travel.php
